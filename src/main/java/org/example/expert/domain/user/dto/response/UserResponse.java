@@ -4,7 +4,7 @@ import lombok.Getter;
 
 @Getter
 public class UserResponse {
-
+    
     private final Long id;
     private final String email;
 
